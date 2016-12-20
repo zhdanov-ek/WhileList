@@ -1,0 +1,14 @@
+{
+  "contacts" : {
+    "-K2ib4H77rj0LYewF7dP" : {
+      "name" : "Жданов Евгений",
+      "phone" : "0504437572",
+      "email" : "zhdanov.ek@gmail.com"      
+    },
+    "-K2ib5JHRbbL0NrztUfO" : {
+      "name" : "Иванов Сергей",
+      "phone" : "0672347672",
+      "email" : "ivanov.sd@gmail.com"
+    }
+  }
+}
